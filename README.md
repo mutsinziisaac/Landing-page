@@ -1,1 +1,3 @@
-# Landing-page
+# Landing Page
+
+This is the landing page for my project, which was created as part of The Odin Project curriculum. The project showcases my skills and knowledge in web development. It includes HTML, CSS to build a responsive and interactive landing page. The page features a clean and modern design, with sections for introduction, features, and a call-to-action. It is optimized for different devices and screen sizes to ensure a seamless user experience. The landing page serves as an introduction to the flex box course on TOP.
