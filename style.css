@@ -73,15 +73,17 @@ button {
 .welcome button {
     border: none;
 }
-
-.image {
-    background-color: gray;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 250px;
+.image-container {
+    height: 300px;
+    width: 500px;
+    overflow: hidden;
     border-radius: 10px;
 }
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
 
 main {
     display: flex;
